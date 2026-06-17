@@ -89,7 +89,7 @@ python house_price_prediction_ml_project.py
 
 ## 👤 Author
 
-**[Your Name]** — Python Developer | Data Analysis | Machine Learning
+**Sharmeen Ahsan** — Python Developer | Data Analysis | Machine Learning
 
 📍 Rawalpindi, Pakistan
-💼 Available for freelance work → [Hire me on Upwork](YOUR_UPWORK_LINK)
+💼 Available for freelance work → sharmeens19@gmail.com
